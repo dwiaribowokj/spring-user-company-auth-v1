@@ -16,7 +16,7 @@ artifact:
   publish: nexus
   base_url: https://nexus.dwiaribowokj.xyz
   repository: maven-releases
-  groupId: <com.wiee.usercompany>
-  artifactId: user-company-auth-v1
+  groupId: com.company.user
+  artifactId: auth-v1
   version: latest
   packaging: jar
