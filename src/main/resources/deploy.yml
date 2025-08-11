@@ -8,7 +8,7 @@ deploy:
   from_artifact: true
   path: /mnt/data/apps/spring/user-company-auth-v1
   service_name: spring-user-company-auth-v1.service
-  port: 8086
+  port: 8087
   build_tool: maven
   java_version: 21
 
